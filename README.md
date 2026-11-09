@@ -14,4 +14,4 @@ Exporting: you can export an edited copy of the .msstyles, or export all images 
 
 Tab 3: Backups & Restore. It lists the backups, can create one manually, and restores one after a confirmation.
 
-It is unfinished and I am uncertain If it will compile.
+It is unfinished and I am uncertain If it will compile. .NET 8 SDK/Windows 11.
